@@ -13,6 +13,12 @@ Project is created with :
 - browser-sync: 2.26
 
 
+# Status
+Project is incomplete.
+  - TODO
+    - Add Article Page Template
+    - Use React Routers
+
 # License
 
 All Rights Reserved
