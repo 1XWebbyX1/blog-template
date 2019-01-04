@@ -1,10 +1,10 @@
 # Blog Template
 A Blog Home Page Template.
 
-![screenshot](https://s3-us-west-2.amazonaws.com/i.cdpn.io/2011965.mQBXJJ.small.03687f15-d51d-40c5-b513-103fe96f1ca5.png)
+![screenshot](https://s3-us-west-2.amazonaws.com/i.cdpn.io/2011965.LXrVKd.small.56399aa5-20ac-49e9-9a15-f5b71533bddb.png)
 
 # Visit
- Visit page on  [github](https://1xwebbyx1.github.io/tech-blog/) or [codepen](https://codepen.io/1xwebbyx1/full/mQBXJJ).
+ Visit page on  [github](https://1xwebbyx1.github.io/blog-template/) or [codepen](https://codepen.io/1xwebbyx1/pen/LXrVKd).
 
 # Technologies
 Project is created with :
